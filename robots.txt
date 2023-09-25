@@ -1,0 +1,5 @@
+# archived website
+# disallow all
+
+User-agent: *
+Disallow: /
